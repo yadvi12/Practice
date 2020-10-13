@@ -11,6 +11,9 @@
     "start": "NODE_ENV=production node server.js",
     "deploy": "pm2 startOrRestart deploy.json --env production"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "dependencies": {
     "arwes": "^1.0.0-alpha.5",
     "babel-preset-es2015": "^6.24.1",
