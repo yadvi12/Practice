@@ -60,7 +60,7 @@ const Footer = props => {
                 </Link>
               </div>
               <div className={classes.right}>
-                <Link href='https://arwes.romelperez.com' target='arwes' onLink={onLink}>
+                <Link href='https://www.linkedin.com/in/yadvibhalla1210/' target='arwes' onLink={onLink}>
                   <TextIcon show={anim.entered} icon=''>Made with 💜</TextIcon>
                 </Link>
               </div>
