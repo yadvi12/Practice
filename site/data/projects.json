@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cd06c8ee-fdb5-44f5-9ec2-58acd61c5361",
+    "name": "MLH'2020 VIZEN WEBAPP",
+    "description": "A web app which can convert your voice to handwritten documents.To top it off you can even save the handwritten docs in pdf format.You can also type in it but why do that when you have Vizen to listen and write it down for you.",
+    "type": "code",
+    "link": "https://github.com/yadvi12/VIZEN-TeamCodeoverflow",
+    "image": "https://github.com/AnanyaNegi/VIZEN-TeamCodeoverflow/raw/main/lolol.png"
+  },
+  {
+    "id": "cd06c8ee-fdb5-44f5-9ec2-58acd61c5361",
+    "name": "RoboFriends",
+    "description": "Love Robots? Go and have fun with the robots! (Created using React and Tachyons).",
+    "type": "code",
+    "link": "https://yadvi12.github.io/robofriends/",
+    "image": "/static/img/robo.PNG"
+  },
+  {
+    "id": "cd06c8ee-fdb5-44f5-9ec2-58acd61c5361",
+    "name": "Team Elecruisers - SRM Institute of Science and Technology",
+    "description": "I have contributed to the development of this website along with my team members in Webarch Club. I have made the team page, navigation bar and about section in the home page for this website:)",
+    "type": "code",
+    "link": "https://github.com/yadvi12/VIZEN-TeamCodeoverflow",
+    "image": "/static/img/ele.PNG"
+  },
+  {
+    "id": "cd06c8ee-fdb5-44f5-9ec2-58acd61c5361",
+    "name": "Weather App",
+    "description": "This is a backend project which is created using Node.js and restful API's. Deployed it using Heroku, and used weather API to fetch all the data required.",
+    "type": "code",
+    "link": "https://secret-depths-25217.herokuapp.com/",
+    "image": "/static/img/weather.PNG"
+  },
+  {
+    "id": "cd06c8ee-fdb5-44f5-9ec2-58acd61c5361",
+    "name": "Voice Control System - STRYDO",
+    "description": "This is strydo :) your personal voice assistant.I would like to thank Vimal Daga sir for providing a great opportunity to students around the world to learn and grow together. I am greatly impressed by his idea to make students as the creators of technology and not the followers. I feel myself really lucky that i got a mentor like him. So i have used python to create this project. It will assist you to perform various task in windows operating system.",
+    "type": "code",
+    "link": "https://github.com/yadvi12/Strydo",
+    "image": ""
+  },
+  {
+    "id": "cd06c8ee-fdb5-44f5-9ec2-58acd61c5361",
+    "name": "Keeper App using React",
+    "description": "This web-app will help you to keep your notes and you delete it when it's done. 🧡",
+    "type": "code",
+    "link": "https://yadvi12.github.io/Keep/",
+    "image": "/static/img/keep.PNG"
+  }
+]
